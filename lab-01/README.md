@@ -16,8 +16,8 @@ This project demonstrates the fundamentals of backend development using Node.js 
 ## 👩‍💻 Author Information
 
 - **Name:** Kadiyala Sama Kruthika
-- **Registration Number:** Add your registration number
-- **Section:** S-002
+- **Registration Number:** 252U1R6107
+- **Section:** S-002 AIML-2B
 - **Subject:** Backend Development Fundamentals
 
 ## 📁 Project Structure
