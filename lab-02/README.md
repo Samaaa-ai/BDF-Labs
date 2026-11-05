@@ -5,6 +5,13 @@
 - **Name:** Kadiyala Sama Kruthika
 - **Section:** S-002 AIML-2B
 - **Registration Number:** 252U1R6107
+
+## Live Deployment
+
+**Render URL:** https://bdf-lab-02-mn5s.onrender.com
+
+**Books API:** https://bdf-lab-02-mn5s.onrender.com/books/
+
 ## Aim
 
 To create and integrate an SQLite database with a Node.js and Express.js application and perform CRUD operations using REST API routes.
