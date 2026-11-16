@@ -8,10 +8,10 @@
 ## Live API Testing
 
 ### Live Registration
-![Live Registration](screenshots/11-live-register-success.png)
+![Live Registration](screenshots/10-live-register-success.png)
 
 ### Live Login
-![Live Login](screenshots/10-live-login-success.png)
+![Live Login](screenshots/11-live-login-success.png)
 
 ## Live Demo
 
