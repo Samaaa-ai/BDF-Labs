@@ -5,6 +5,14 @@
 **Section:** S-002 AIML-2B  
 **Subject:** Backend Development Fundamentals
 
+## Live API Testing
+
+### Live Registration
+![Live Registration](screenshots/11-live-register-success.png)
+
+### Live Login
+![Live Login](screenshots/10-live-login-success.png)
+
 ## Live Demo
 
 https://bdf-lab-04-j5es.onrender.com
